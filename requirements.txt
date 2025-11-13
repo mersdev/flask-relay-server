@@ -1,0 +1,15 @@
+# Flask Relay Server Dependencies
+Flask==3.0.0
+Werkzeug==3.0.1
+
+# Cryptography
+cryptography==41.0.7
+
+# Streamlit Frontend
+streamlit==1.29.0
+
+# HTTP Requests
+requests==2.31.0
+
+# Date/Time utilities
+python-dateutil==2.8.2
