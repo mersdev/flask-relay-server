@@ -7,4 +7,4 @@ echo ""
 echo "Press Ctrl+C to stop the server"
 echo ""
 
-python3 relay_server.py
+python3 app.py
